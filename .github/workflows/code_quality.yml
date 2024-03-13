@@ -1,4 +1,4 @@
-name: Code_Quality
+name: code_quality
 run-name: (Run by ${{ github.actor }})
 
 on:
